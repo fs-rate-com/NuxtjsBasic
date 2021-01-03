@@ -5,7 +5,7 @@ By KongRuksiam
 - [เข้าเรียนเนื้อหา Nuxt.js](https://www.youtube.com/playlist?list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo)
 ## ประกอบด้วยเนื้อหา ดังนี้
 
-- [ทำความรู้จักกับ Nuxt.js]
+- [ทำความรู้จักกับ Nuxt.js](https://www.youtube.com/watch?v=DbCFuIjL8Uk&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=2)
 - [เริ่มต้นสร้างโปรเจค]
 - [โครงสร้างโปรเจค]
 - [การสร้าง Page]
