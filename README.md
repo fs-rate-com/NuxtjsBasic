@@ -6,38 +6,38 @@ By KongRuksiam
 ## ประกอบด้วยเนื้อหา ดังนี้
 
 - [ทำความรู้จักกับ Nuxt.js](https://www.youtube.com/watch?v=DbCFuIjL8Uk&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=2)
-- [เริ่มต้นสร้างโปรเจค]
-- [โครงสร้างโปรเจค]
-- [การสร้าง Page]
-- [การส่ง Parameter]
-- [Validate Parameter]
-- [Nuxt Link]
-- [Nested Routes]
-- [Layouts]
-- [Components]
-- [ตกแต่ง Components ด้วย Boostrap-Vue]
-- [Data & Components]
-- [นำภาพจาก Asset มาใช้งาน]
-- [Props & Components]
-- [PostList Components]
-- [Computed]
-- [จัดการฝั่ง Admin]
-- [สร้างแบบฟอร์มด้วย Boostrap-Vue]
-- [การผูกข้อมูลเข้ากับ  UI (Data Binding)]
-- [Methods]
-- [แสดงผลข้อมูลด้วย v-for]
-- [สร้างโปรเจค Firebase]
-- [ บันทึกข้อมูล]
-- [ ดึงข้อมูลด้วย Axios]
-- [การใช้งาน Async & Await]
-- [ การใช้งาน Promise]
-- [AsyncData]
-- [AsyncData & Promise]
-- [ การสร้าง Store]
-- [nuxtServerInit]
-- [บันทึกข้อมูลผ่าน Action]
-- [ดึงข้อมูลมาแสดงที่แบบฟอร์ม]
-- [แก้ไขข้อมูล]
-- [แก้ไข Post Conent Component]
-- [ แสดงเนื้อหาด้วย Slice]
-- [ แสดงบทความด้วย SinglePost Component]
+- [เริ่มต้นสร้างโปรเจค](https://www.youtube.com/watch?v=cSRVXMskZY4&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=3)
+- [โครงสร้างโปรเจค](https://www.youtube.com/watch?v=Ur35xi6vg5k&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=4)
+- [การสร้าง Page](https://www.youtube.com/watch?v=qI5EXowlxpA&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=5)
+- [การส่ง Parameter](https://www.youtube.com/watch?v=U-3HT67pi4M&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=6)
+- [Validate Parameter](https://www.youtube.com/watch?v=Xk9ZzDUVyEY&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=7)
+- [Nuxt Link](https://www.youtube.com/watch?v=nrd1gYVJWeQ&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=8)
+- [Nested Routes](https://www.youtube.com/watch?v=q9bD31wvms4&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=9)
+- [Layouts](https://www.youtube.com/watch?v=waWsmy6hHIY&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=10)
+- [Components](https://www.youtube.com/watch?v=0ONXmgkU3zY&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=11)
+- [ตกแต่ง Components ด้วย Boostrap-Vue](https://www.youtube.com/watch?v=QX6odntpXjc&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=12)
+- [Data & Components](https://www.youtube.com/watch?v=vJBZX8knpkg&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=13)
+- [นำภาพจาก Asset มาใช้งาน](https://www.youtube.com/watch?v=SvJC95Nps9s&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=14)
+- [Props & Components](https://www.youtube.com/watch?v=W-Sz6aF31l8&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=15)
+- [PostList Components](https://www.youtube.com/watch?v=MYNKQWjKrEg&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=16)
+- [Computed](https://www.youtube.com/watch?v=F5GDw96eEbU&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=17)
+- [จัดการฝั่ง Admin](https://www.youtube.com/watch?v=kT_0xcpFo7U&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=18)
+- [สร้างแบบฟอร์มด้วย Boostrap-Vue](https://www.youtube.com/watch?v=2pMUW34kaEA&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=19)
+- [การผูกข้อมูลเข้ากับ  UI (Data Binding)](https://www.youtube.com/watch?v=6nnc2i_7JiM&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=20)
+- [Methods](https://www.youtube.com/watch?v=mWSB0uagyJ4&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=21)
+- [แสดงผลข้อมูลด้วย v-for](https://www.youtube.com/watch?v=K1g2WDoA2zs&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=22)
+- [สร้างโปรเจค Firebase](https://www.youtube.com/watch?v=t71P2hX6xQ8&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=23)
+- [ บันทึกข้อมูล](https://www.youtube.com/watch?v=NyLD79tW2Fo&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=24)
+- [ ดึงข้อมูลด้วย Axios](https://www.youtube.com/watch?v=qXl-TUex69g&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=25)
+- [การใช้งาน Async & Await](https://www.youtube.com/watch?v=eVtNSysea5E&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=26)
+- [ การใช้งาน Promise](https://www.youtube.com/watch?v=fx-ozGbYl2c&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=27)
+- [AsyncData](https://www.youtube.com/watch?v=osEDG9xmKOU&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=28)
+- [AsyncData & Promise](https://www.youtube.com/watch?v=YkfyJOSevkw&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=29)
+- [ การสร้าง Store](https://www.youtube.com/watch?v=CKBn05X2Kuk&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=30)
+- [nuxtServerInit](https://www.youtube.com/watch?v=OOUS2dKRv2s&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=31&t=735s)
+- [บันทึกข้อมูลผ่าน Action](https://www.youtube.com/watch?v=8OAzaKAnz8A&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=32)
+- [ดึงข้อมูลมาแสดงที่แบบฟอร์ม](https://www.youtube.com/watch?v=fvGmYxwqU9E&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=33)
+- [แก้ไขข้อมูล](https://www.youtube.com/watch?v=jdQmFI-5itE&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=34)
+- [แก้ไข Post Conent Component](https://www.youtube.com/watch?v=rWgDtXV5ekY&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=35)
+- [ แสดงเนื้อหาด้วย Slice](https://www.youtube.com/watch?v=qnOPMJrTZPY&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=36)
+- [ แสดงบทความด้วย SinglePost Component](https://www.youtube.com/watch?v=adPhDZ5itUU&list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo&index=37)
