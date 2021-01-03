@@ -4,7 +4,8 @@ By KongRuksiam
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
  
 ##ประกอบด้วยเนื้อหา
- ทำความรู้จักกับ Nuxt.j
+
+- [ทำความรู้จักกับ Nuxt.js]
 - [เริ่มต้นสร้างโปรเจค]
 -[โครงสร้างโปรเจค]
 -[การสร้าง Page]
@@ -14,15 +15,15 @@ By KongRuksiam
 -[Nested Routes]
 -[Layouts]
 -[Components]
--[ตกแต่ง Components ด้วย Boostrap-Vue]
+- [ตกแต่ง Components ด้วย Boostrap-Vue]
 -[Data & Components]
--[นำภาพจาก Asset มาใช้งาน]
+- [นำภาพจาก Asset มาใช้งาน]
 -[Props & Components]
 -[PostList Components]
 -[Computed]
--[จัดการฝั่ง Admin]
--[สร้างแบบฟอร์มด้วย Boostrap-Vue]
--[การผูกข้อมูลเข้ากับ  UI (Data Binding)]
+- [จัดการฝั่ง Admin]
+- [สร้างแบบฟอร์มด้วย Boostrap-Vue]
+- [การผูกข้อมูลเข้ากับ  UI (Data Binding)]
 -[Methods]
 - [แสดงผลข้อมูลด้วย v-for]
 - [สร้างโปรเจค Firebase]
