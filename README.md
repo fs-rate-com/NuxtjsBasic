@@ -4,8 +4,7 @@ By KongRuksiam
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
  
 ##ประกอบด้วยเนื้อหา
-
-- [ทำความรู้จักกับ Nuxt.js]
+ ทำความรู้จักกับ Nuxt.j
 - [เริ่มต้นสร้างโปรเจค]
 -[โครงสร้างโปรเจค]
 -[การสร้าง Page]
