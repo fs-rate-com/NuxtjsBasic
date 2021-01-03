@@ -2,8 +2,8 @@
 
 By KongRuksiam
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
- 
-##ประกอบด้วยเนื้อหา
+- [เข้าเรียนเนื้อหา Nuxt.js](https://www.youtube.com/playlist?list=PLEE74DyIkwEmTgHmNVk8QqTTqA5bfegWo)
+## ประกอบด้วยเนื้อหา ดังนี้
 
 - [ทำความรู้จักกับ Nuxt.js]
 - [เริ่มต้นสร้างโปรเจค]
